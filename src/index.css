@@ -158,6 +158,21 @@ a {
   line-height: 1.6;
 }
 
+.chart {
+  margin-top: 30px;
+}
+
+.btn {
+  display: inline-block;
+  padding: 0.75rem 1.5rem;
+  background-color: #58a6ff;
+  color: white;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: bold;
+  transition: background-color 0.2s ease;
+}
+
 /* Coin Details */
 .coin-details-container {
   max-width: 700px;
